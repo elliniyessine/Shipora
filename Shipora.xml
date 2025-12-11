@@ -397,7 +397,7 @@
       <name xml:lang="en">Order Details (AUTOMATIC)</name>
     </relationship>
     <relationship identifier="id-aedfd7a085bf41dfa008b496af08cca1" source="id-733a9222110d4784965458eb585f8bce" target="id-5e043241bdb44772bf9287a8c004db14" xsi:type="Triggering">
-      <name xml:lang="en">Package Ready  (AUTOMATIC°</name>
+      <name xml:lang="en">Package Ready (AUTOMATIC°</name>
     </relationship>
     <relationship identifier="id-c9ae52157bd44fe6942a0bf1b50af7f4" source="id-5e043241bdb44772bf9287a8c004db14" target="id-f31e94ae5df4498c8b7d9e9ba813b75d" xsi:type="Triggering">
       <name xml:lang="en">Delivery Assignment (AUTOMATIC)</name>
@@ -623,7 +623,7 @@
   <views>
     <diagrams>
       <view identifier="id-725fb72c0fd14b64a4804150b708d906" xsi:type="Diagram">
-        <name xml:lang="en">Phase A: Stakeholders diagram</name>
+        <name xml:lang="en">Phase A: Stakeholders Diagram</name>
         <node identifier="id-65c69ea423494ffe80a9498046f35b25" elementRef="id-a5776305fda34433a650ab3a1d862e25" xsi:type="Element" x="396" y="228" w="109" h="37">
           <style>
             <fillColor r="204" g="204" b="255" a="100" />
@@ -1060,7 +1060,7 @@
         </connection>
       </view>
       <view identifier="id-e3d0d87eba5646d4b038caabf21ced1e" xsi:type="Diagram" viewpoint="Information Structure">
-        <name xml:lang="en">Phase C: Logical Data Diagram</name>
+        <name xml:lang="en">Phase C.1: Logical Data Diagram</name>
         <node identifier="id-b56c30df9f60405eb5f51df338c51c94" elementRef="id-d0facc0d19684db49ee9fde413f246a6" xsi:type="Element" x="360" y="36" w="120" h="55">
           <style>
             <fillColor r="255" g="255" b="181" a="100" />
@@ -1176,7 +1176,7 @@
         </connection>
       </view>
       <view identifier="id-742f441916da4735b3280e943a01c41a" xsi:type="Diagram">
-        <name xml:lang="en">Phase C: System Usecase diagram</name>
+        <name xml:lang="en">Phase C.2: System Usecase Diagram</name>
         <node identifier="id-106e3018dd6d4605956940e52ed03f7b" elementRef="id-923236afce57495cb4f3e5c0fcd24773" xsi:type="Element" x="108" y="168" w="120" h="55">
           <style>
             <fillColor r="255" g="255" b="181" a="100" />
@@ -1559,7 +1559,7 @@
         </connection>
       </view>
       <view identifier="id-8502a90e78bb4d50aafe22eee2f8f4d2" xsi:type="Diagram">
-        <name xml:lang="en">Phase C: Application Communication Diagram</name>
+        <name xml:lang="en">Phase C.2: Application Communication Diagram</name>
         <node identifier="id-925157f6e2344a03bfd4ad8e43d074e1" x="672" y="0" w="828" h="140" xsi:type="Container">
           <label xml:lang="en">Customer Interface Layer</label>
           <style>
